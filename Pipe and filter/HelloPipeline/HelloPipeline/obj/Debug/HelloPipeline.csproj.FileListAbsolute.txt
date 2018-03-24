@@ -1,0 +1,7 @@
+C:\Users\Babe\Downloads\Compressed\New folder\New folder\HelloPipeline\HelloPipeline\bin\Debug\HelloPipeline.exe.config
+C:\Users\Babe\Downloads\Compressed\New folder\New folder\HelloPipeline\HelloPipeline\bin\Debug\HelloPipeline.exe
+C:\Users\Babe\Downloads\Compressed\New folder\New folder\HelloPipeline\HelloPipeline\bin\Debug\HelloPipeline.pdb
+C:\Users\Babe\Downloads\Compressed\New folder\New folder\HelloPipeline\HelloPipeline\obj\Debug\HelloPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Babe\Downloads\Compressed\New folder\New folder\HelloPipeline\HelloPipeline\obj\Debug\HelloPipeline.csproj.CoreCompileInputs.cache
+C:\Users\Babe\Downloads\Compressed\New folder\New folder\HelloPipeline\HelloPipeline\obj\Debug\HelloPipeline.exe
+C:\Users\Babe\Downloads\Compressed\New folder\New folder\HelloPipeline\HelloPipeline\obj\Debug\HelloPipeline.pdb
